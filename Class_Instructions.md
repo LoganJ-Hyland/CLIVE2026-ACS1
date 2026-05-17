@@ -8,8 +8,39 @@ You’re the newly assigned Platform Administrator for 9 Second Insurance, a rap
 1. Go to http://54.196.34.183/share/
 2. Login with the username and password: ```clive2026```
 3. Go to Shared Documents
-4. Download the CLIVE2026.PEM file.
+4. Download the CLIVE2026.PEM file
 5. Open Visual Studio Code
+6. Select the Blue >< button on the bottom left of the window
+7. Select Connect to Host...
+8. Select Configure SSH Hosts...
+9. Open the file \userss\(local user)\.ssh\config
+10. Paste following lines into file
+#### Windows
+```
+Host CommunityLive-ACS1
+    HostName ec2-13-223-185-223.compute-1.amazonaws.com
+    IdentityFile \Users\(local user)\Downloads\CLIVE2026.pem
+    User ubuntu
+```
+#### Mac/Linux
+```
+Host CommunityLive-ACS1
+    HostName ec2-13-223-185-223.compute-1.amazonaws.com
+    IdentityFile \Users\(local user)\Downloads\CLIVE2026.pem
+    User ubuntu
+```
+11. Save file
+12. Select the Blue >< button on the bottom left of the window
+13. Select Connect to Host...
+14. Select CommunityLive-ACS1
+15. Select Linux
+16. 
+
+
+
+
+
+
 
 ```
 git clone https://github.com/aborroy/alfresco-ubuntu-installer.git
