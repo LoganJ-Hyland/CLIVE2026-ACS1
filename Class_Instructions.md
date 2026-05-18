@@ -13,7 +13,7 @@ You’re the newly assigned Platform Administrator for 9 Second Insurance, a rap
 6. Select the Blue >< button on the bottom left of the window
 7. Select Connect to Host...
 8. Select Configure SSH Hosts...
-9. Open the file \userss\(local user)\.ssh\config
+9. Open the file \users\(local user)\.ssh\config
 10. Paste following lines into file
 #### Windows
 ```
