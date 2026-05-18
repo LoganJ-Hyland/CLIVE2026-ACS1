@@ -18,15 +18,15 @@ You’re the newly assigned Platform Administrator for 9 Second Insurance, a rap
 #### Windows
 ```
 Host CommunityLive-ACS1
-    HostName ec2-13-223-185-223.compute-1.amazonaws.com
+    HostName ec2-(assigned IP).compute-1.amazonaws.com
     IdentityFile \Users\(local user)\Downloads\CLIVE2026.pem
     User ubuntu
 ```
 #### Mac/Linux
 ```
 Host CommunityLive-ACS1
-    HostName ec2-13-223-185-223.compute-1.amazonaws.com
-    IdentityFile \Users\(local user)\Downloads\CLIVE2026.pem
+    HostName ec2-(assigned IP).compute-1.amazonaws.com
+    IdentityFile /Users/(local user)/Downloads/CLIVE2026.pem
     User ubuntu
 ```
 11. Save file
