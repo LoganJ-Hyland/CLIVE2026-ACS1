@@ -5,4 +5,8 @@
 
 ## Additional Resources
 
-[Official Alfresco ZIP Install Documentation](https://docs.alfresco.com/content-services/community/install/zip/)
+[Alfresco ZIP Install Documentation](https://docs.alfresco.com/content-services/community/install/zip/)
+
+[Ansible Deployment](https://github.com/Alfresco/alfresco-ansible-deployment)
+
+[Container Deployment](https://docs.alfresco.com/content-services/community/install/containers/docker-compose/)
