@@ -109,3 +109,7 @@ bash scripts/11-start_services.sh
 ```
 cat config/alfresco.env
 ```
+## Stopping Services
+```
+bash scripts/12-stop_services.sh
+```
