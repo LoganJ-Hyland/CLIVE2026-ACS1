@@ -6,7 +6,7 @@ You’re the newly assigned Platform Administrator for 9 Second Insurance, a rap
 
 ## Prework
 1. Go to [http://54.196.34.183/share/](http://34.229.252.69/)
-2. Login with the username and password: ```clive2026```
+2. Login with the username and password: ```demo```:```demo```
 3. Go to Shared Documents
 4. Download the CLIVE2026.PEM file
 5. Open Visual Studio Code
