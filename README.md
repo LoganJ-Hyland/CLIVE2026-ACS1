@@ -6,7 +6,7 @@
 
 ## Additional Resources
 
-[Alfresco ZIP Install Documentation]([https://docs.alfresco.com/content-services/community/install/zip/](https://docs.hyland.com/r/Alfresco/Alfresco-Content-Services/7.4/Alfresco-Content-Services/Alfresco-Content-Services/Install/Install-with-zip/What-you-need-to-install-Content-Services))
+[Alfresco ZIP Install Documentation] (https://docs.hyland.com/r/Alfresco/Alfresco-Content-Services/7.4/Alfresco-Content-Services/Alfresco-Content-Services/Install/Install-with-zip/What-you-need-to-install-Content-Services](https://docs.hyland.com/r/Alfresco/Alfresco-Content-Services/7.4/Alfresco-Content-Services/Alfresco-Content-Services/Install/Install-with-zip/Prerequisites)
 
 [Ansible Deployment](https://github.com/Alfresco/alfresco-ansible-deployment)
 
