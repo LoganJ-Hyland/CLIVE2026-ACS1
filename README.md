@@ -10,4 +10,4 @@
 
 [Ansible Deployment](https://github.com/Alfresco/alfresco-ansible-deployment)
 
-[Container Deployment](https://docs.alfresco.com/content-services/community/install/containers/docker-compose/)
+[Container Deployment](https://docs.hyland.com/r/Alfresco/Alfresco-Content-Services/7.4/Alfresco-Content-Services/Alfresco-Content-Services/Install/Containers-overview/Deployment-concepts)
