@@ -2,7 +2,7 @@
 
 [Click Here to Begin](/Class_Instructions.md)
 
-[PowerPoint Presentation](/PPT_Presentation)
+[PowerPoint Presentation](/PowerPoint Presentation)
 
 ## Additional Resources
 
